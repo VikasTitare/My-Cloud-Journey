@@ -14,20 +14,20 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## [Vikas Titare]'s Cloud Journey
 
-[✍️ Introduce yourself]
+[I am a Qualified engineer with 5+ years of experience in Telecom Operation]
 
-[✍️ Tell us why you started this challenge]
+[I am very much interstead in learning cloud and looking to take my career into the cloud]
 
-[✍️ Tell us where you want to be at the end of the challenge]
+[I want to be a good cloud engineer with hand on experience]
 
 - [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [https://www.linkedin.com/in/vikas-titare-503012121?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bx%2BDKT7haQ3yjmo4bFrOXsA%3D%3D](https://www.linkedin.com/in/username)
 
 ## Stepping out the door
 
-- [ ] ☁️ 0 > ✍️ SEC01-AWS100 [My Day Article](Journey/000-My-Zero-Day.md)
+- [ ] ☁️ 0 > ✍️ SEC01-AWS100 [Created Github account-Introduction to Github](Journey/000-My-Zero-Day.md)
 - [ ] ☁️ 1 >
 - [ ] ☁️ 2 >
 - [ ] ☁️ 3 >
