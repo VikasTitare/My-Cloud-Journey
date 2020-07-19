@@ -28,7 +28,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 ## Stepping out the door
 
 - [ ] ☁️ 0 > ✍️ SEC01-AWS100 [Created Github account-Introduction to Github](Journey/000-My-Zero-Day.md)
-- [ ] ☁️ 1 >
+- [ ] ☁️ 1 >Learning https://youtu.be/3hLmDS179YE-AWS Cloud Practioners
 - [ ] ☁️ 2 >
 - [ ] ☁️ 3 >
 - [ ] ☁️ 4 >
