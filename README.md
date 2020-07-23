@@ -31,7 +31,7 @@ We have provided a sample Day Journey entry staring at 0. You can delete this ex
 - [ ] ☁️ 1 >Learning https://youtu.be/3hLmDS179YE-AWS Cloud Practioners
 - [ ] ☁️ 2 >Learning https://youtu.be/3hLmDS179YE-AWS Cloud Practioners
 - [ ] ☁️ 3 >Learning https://youtu.be/3hLmDS179YE-AWS Cloud Practioners
-- [ ] ☁️ 4 >
+- [ ] ☁️ 4 >watching cloud practioners video's and preparing notes for compute services.
 - [ ] ☁️ 5 >
 - [ ] ☁️ 6 >
 - [ ] ☁️ 7 >
